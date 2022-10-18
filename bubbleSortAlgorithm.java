@@ -1,7 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+/* bubble sort algorithm theory : 
+https://github.com/HasanthaKarunachandra/Python-fundamentals/blob/main/Algorithms/Bubble%20sort%20algorithem.ipynb
+   */
+
 package algorithem;
 
 import java.util.Arrays;
@@ -23,5 +23,6 @@ for (int i=0; i<len; i++){
         System.out.print("According to the bubble short alogorithem, the List in in ascending order:");
         System.out.println(Arrays.toString(list));
     }
-    
+ 
+
 }
